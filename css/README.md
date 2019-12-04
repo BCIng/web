@@ -1,2 +1,2 @@
-# web
-web notes 
+# CSS
+CSS notes 

@@ -1,2 +1,2 @@
-# web
-web notes 
+# JAVASCRIPT
+JAVASCRIPT notes 
